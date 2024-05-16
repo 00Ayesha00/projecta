@@ -1,0 +1,41 @@
+.navbar{
+    width: 100%;
+
+}
+.fa-circle-check{
+    color: #b863d7;
+}
+
+
+.cl{
+    text-align: center;
+}
+
+.clients-slider img{
+    width: 114px;
+    height: 50px;
+    margin: 40px;
+    margin-bottom: 60px;
+    opacity: 0.1;
+    align-self: center;
+}
+.clients-slider img:hover{
+    opacity: 1;
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: #f162f1;
+}
+.testimonials img{
+    width: 100px;
+    height: 100px;
+
+}
+.testimonials{
+    box-shadow: 5px 5px 10px #EAEAEA;
+}
+footer{
+    text-align: center;
+}

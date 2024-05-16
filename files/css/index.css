@@ -1,0 +1,70 @@
+.navbar{
+    width: 100%;
+
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: #cf7cf6;
+}
+.carousel img{
+    opacity: 0.5;
+}
+.carousel span{
+    color: #ac62f1;
+}
+.carousel .btn{
+    background-color: #de62f1;
+    border-radius: 30px;
+    color: #fff;
+}
+.carousel .btn:hover{
+    border-radius: 30px;
+    border: 2px solid #c862f1;
+    background-color: rgba(255, 255, 255, 0);
+    color: #d062f1;
+}
+
+.fa-circle-check{
+    color: #c862f1;
+}
+.icon-text{
+    border: 1px solid #EAE0DA;
+    text-align: center;
+    /* margin: 0.3px; */
+}
+.icon-text:hover{
+    background-color: #c862f1;
+    color: #fff;
+}
+.box-icon{
+    width: max-content;
+    margin: auto;
+    color: #fff;
+    padding: 10px;
+    background-color: #b562f1;
+    box-shadow: 3px 3px #de98e9;
+    border-radius: 3px;
+}
+.icon-text:hover .box-icon{
+    background-color: #fff;
+    color: #c162f1;
+}
+.cl{
+    text-align: center;
+}
+.clients-slider img{
+    width: 114px;
+    height: 50px;
+    margin: 40px;
+    margin-bottom: 60px;
+    opacity: 0.1;
+    align-self: center;
+}
+.clients-slider img:hover{
+    opacity: 1;
+}
+footer{
+    text-align: center;
+}

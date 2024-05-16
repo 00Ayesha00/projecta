@@ -1,0 +1,62 @@
+.navbar{
+    width: 100%;
+
+}
+.icon-text{
+    border: 1px solid #EAE0DA;
+    text-align: center;
+    /* margin: 0.3px; */
+}
+.icon-text:hover{
+    background-color: #cb62f1;
+    color: #fff;
+}
+.box-icon{
+    width: max-content;
+    margin: auto;
+    color: #fff;
+    padding: 10px;
+    background-color: #e362f1;
+    box-shadow: 3px 3px #e598e9;
+    border-radius: 3px;
+}
+.icon-text:hover .box-icon{
+    background-color: #fff;
+    color: #d462f1;
+}
+
+.price{
+    text-align: center;
+    box-shadow: 7px 7px 20px #eaeaea;
+    
+}
+.price li{
+    list-style-type: none;
+    text-align: left;
+}
+.price h1{
+    color: #e362f1;
+}
+.for{
+    font-size: xx-large;
+}
+ul span{
+  
+    color: #f162dc;
+}
+.buy{
+    border-radius: 30px;
+    background-color: #252525;
+    color: #fff;
+}
+.buy2{
+    border-radius: 30px;
+    background-color: #c952ed;
+    color: #fff;
+}
+.buy:hover{
+    background-color: #d462f1;
+}
+footer{
+    text-align: center;
+}
